@@ -1,0 +1,14 @@
+2023-03-18T17:28:00,212 Using pip 23.0.1 from c:\users\hoang\appdata\local\programs\python\python37\lib\site-packages\pip (python 3.7)
+2023-03-18T17:28:00,212 User install by explicit request
+2023-03-18T17:28:00,243 Created temporary directory: C:\Users\hoang\AppData\Local\Temp\pip-build-tracker-3aae93q_
+2023-03-18T17:28:00,243 Initialized build tracking at C:\Users\hoang\AppData\Local\Temp\pip-build-tracker-3aae93q_
+2023-03-18T17:28:00,243 Created build tracker: C:\Users\hoang\AppData\Local\Temp\pip-build-tracker-3aae93q_
+2023-03-18T17:28:00,243 Entered build tracker: C:\Users\hoang\AppData\Local\Temp\pip-build-tracker-3aae93q_
+2023-03-18T17:28:00,243 Created temporary directory: C:\Users\hoang\AppData\Local\Temp\pip-install-cs_9q8r0
+2023-03-18T17:28:00,257 Created temporary directory: C:\Users\hoang\AppData\Local\Temp\pip-ephem-wheel-cache-fk3m2bzp
+2023-03-18T17:28:00,269 Requirement already satisfied: pygame in c:\users\hoang\appdata\local\programs\python\python37\lib\site-packages (2.3.0)
+2023-03-18T17:28:00,271 Created temporary directory: C:\Users\hoang\AppData\Local\Temp\pip-unpack-9543fjpq
+2023-03-18T17:28:00,511 Remote version of pip: 23.0.1
+2023-03-18T17:28:00,511 Local version of pip:  23.0.1
+2023-03-18T17:28:00,512 Was pip installed by pip? True
+2023-03-18T17:28:00,512 Removed build tracker: 'C:\\Users\\hoang\\AppData\\Local\\Temp\\pip-build-tracker-3aae93q_'
